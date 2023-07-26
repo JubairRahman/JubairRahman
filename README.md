@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://media.tenor.com/F_aIpdp3hEwAAAAi/git-github.gif" width="150">
-  <img src="https://pingbix.com/wp-content/uploads/2023/02/api-lifecycle.gif" width="100">
+  <img src="https://pingbix.com/wp-content/uploads/2023/02/api-lifecycle.gif" width="120">
   <img src="https://media.tenor.com/27z-u12LcDwAAAAj/testing-automation.gif" width="200">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200w.gif" width="80">
