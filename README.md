@@ -6,13 +6,13 @@
 
 
 <p align="center">
-  <img src="https://media.tenor.com/F_aIpdp3hEwAAAAi/git-github.gif" width="200">
-  <img src="https://pingbix.com/wp-content/uploads/2023/02/api-lifecycle.gif" width="140">
-  <img src="https://media.tenor.com/27z-u12LcDwAAAAj/testing-automation.gif" width="200">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200w.gif" width="100">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200w.gif" width="100">
+  <img src="https://media.tenor.com/F_aIpdp3hEwAAAAi/git-github.gif" width="150">
+  <img src="https://pingbix.com/wp-content/uploads/2023/02/api-lifecycle.gif" width="100">
+  <img src="https://media.tenor.com/27z-u12LcDwAAAAj/testing-automation.gif" width="150">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200w.gif" width="80">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="80">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200w.gif" width="80">
  
   <!-- <img src="https://www.charlotteworks.com/wp-content/uploads/2018/01/automation-animation.gif" width="100"> -->
 
