@@ -171,6 +171,9 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jubairrahman&" alt="jubairrahman" /></p> -->
 
+<h3 align="left"> Dev Card</h3>
+
+<p align="right"> <a href="https://app.daily.dev/Jubair"><img src="https://api.daily.dev/devcards/46afe42e8c1547c09029bd85e3eb1798.png?r=x0b" width="400" alt="Jubair Rahman's Dev Card"/></a> </p>
 
 
 
