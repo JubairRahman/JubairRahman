@@ -158,15 +158,23 @@
 
 
 
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jubairrahman&label=Profile%20views&color=0e75b6&style=flat" alt="jubairrahman" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jubairrahman" alt="jubairrahman" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jubairrahman" alt="jubairrahman" style="filter: invert(1);">
+  </a>
+</p>
+
+
 
 <h3 align="center">Stats</h3>
 <p align="center">
 </p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jubairrahman&show_icons=true&locale=en" alt="jubairrahman" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jubairrahman&show_icons=true&locale=en&theme=dark" alt="jubairrahman" /></p>
+
 
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jubairrahman&" alt="jubairrahman" /></p> -->
