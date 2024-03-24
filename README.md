@@ -32,7 +32,7 @@
 
 - 💬 Ask me about **manual testing strategies, test planning, bug tracking, and optimizing QA processes.**
 
-- 📫 I am interested to work in a team. 
+- 📫 I am interested in working in a team. 
 
 - ⚡ Fun fact **I love to play with my Brain.**
   <br>
