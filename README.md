@@ -42,6 +42,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
+---
 <div align="center">
 
 ### Testing Tools
@@ -54,6 +55,7 @@
 
 </div>
 
+---
 
 
 <div align="center">
@@ -68,20 +70,24 @@
 
 </div>
 
+---
 
-<h3 align="center">Connect with me</h3>
-<p align="center"> <a href="https://discord.com/users/123456789012345678" style="display: inline-block;">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> </a> <a href="mailto:jubairrahman64@gmail.com" style="display: inline-block;"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
-<a href="https://www.linkedin.com/in/jubair-rahman0/" style="display: inline-block;">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://wa.me/8801645763353" style="display: inline-block;">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
+
+<div align="center">
+  
+### Like to read Blogs from
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to blog">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
+  <img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" alt="Substack">
+  <img src="https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white" alt="Micro.blog">
 </p>
+
 </div>
-
-
 
 <div align="center">
 
@@ -97,19 +103,26 @@
 </div>
 
 
-<div align="center">
-
-### Like to read Blogs from
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to blog">
-  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
-  <img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" alt="Substack">
-  <img src="https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white" alt="Micro.blog">
+<h3 align="center">Connect with me</h3>
+<p align="center"> <a href="https://discord.com/users/123456789012345678" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> </a> <a href="mailto:jubairrahman64@gmail.com" style="display: inline-block;"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
+<a href="https://www.linkedin.com/in/jubair-rahman0/" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://wa.me/8801645763353" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
 </p>
 
-</div>
+
+
+
+---
+
+
+
+---
+
 
 
 <div align="center">
@@ -127,6 +140,7 @@
 
 </div>
 
+---
 
 <div align="center">
 
@@ -141,6 +155,7 @@
 
 </div>
 
+---
 
 <div align="center">
 
@@ -158,16 +173,46 @@
 
 </div>
 
-
+---
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jubairrahman&label=Profile%20views&color=0e75b6&style=flat" alt="jubairrahman" /> </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jubairrahman" alt="jubairrahman" style="filter: invert(1);">
-  </a>
-</p>
+---
+
+```javascript
+const JubairRahman = {
+  pronouns: ["he", "him"],
+  roles: ["QA Engineer", "Project Coordinator"],
+  skills: [
+    "Manual Testing", 
+    "API Testing", 
+    "Test Automation", 
+    "Documentation", 
+    "Project Coordination"
+  ],
+  tools: {
+    testManagement: ["TestRail", "JIRA", "Xray"],
+    documentation: ["Notion", "Confluence", "Google Docs"],
+    automation: ["Postman", "Selenium", "Playwright"],
+    api: ["REST", "Swagger", "Insomnia"],
+    collaboration: ["Git", "GitHub", "Slack", "Zoom"]
+  },
+  contributions: [
+    "Creating and maintaining PRDs and BRDs",
+    "Developing detailed and reusable test cases",
+    "Designing test strategies aligned with project goals",
+    "Coordinating between developers, testers, and support teams",
+    "Ensuring clear communication and timely deliveries"
+  ],
+  interests: [
+    "QA content creation",
+    "Agile project workflows",
+    "Exploratory testing",
+    "Modern documentation practices"
+  ]
+};
+```
 
 
 
@@ -184,20 +229,6 @@
 <h3 align="center"> Dev Card</h3>
 
 <p align="center"> <a href="https://app.daily.dev/Jubair"><img src="https://api.daily.dev/devcards/46afe42e8c1547c09029bd85e3eb1798.png?r=x0b" width="400" alt="Jubair Rahman's Dev Card"/></a> </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
