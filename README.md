@@ -17,7 +17,12 @@
   <!-- <img src="https://www.charlotteworks.com/wp-content/uploads/2018/01/automation-animation.gif" width="100"> -->
 
 </p>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=JubairRahman&label=Profile%20views&color=0e75b6&style=flat" alt="mdhrshohel" /> </p> -->
+<p align="center">
+<!--   <strong>👀 Profile views</strong><br/> -->
+  <a href="https://github.com/JubairRahman" target="_blank" rel="noopener">
+    <img src="https://komarev.com/ghpvc/?username=JubairRahman" alt="Profile views" width="150" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;QA+Developer;Learning;Evolving;Communication;Analytical+Thinker;Innovation" alt="Typing SVG" /></a>
