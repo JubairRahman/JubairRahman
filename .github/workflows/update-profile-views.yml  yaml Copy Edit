@@ -2,40 +2,36 @@ name: Update Profile Views Badge
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight UTC
-  workflow_dispatch:     # Allows manual run from Actions tab
+    - cron: "0 0 * * *"  # every midnight UTC
+  workflow_dispatch:      # manual trigger
 
 jobs:
   update-badge:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Fetch Komarev SVG
+      - name: Download Komarev SVG
         run: curl -s "https://komarev.com/ghpvc/?username=JubairRahman&abbreviated=true" -o views.svg
 
-      - name: Extract view count
+      - name: Extract count from SVG
         id: extract
         run: |
-          # Extract number like 1.2k or 1234 from SVG title tag
-          COUNT=$(grep -oP '(?<=<title>)[^<]+' views.svg | grep -oP '[0-9]+(\.[0-9]+)?[kM]?')
+          COUNT=$(grep -oP '(?<=<title>)[0-9,.]+[kM]?' views.svg)
           echo "count=$COUNT" >> $GITHUB_OUTPUT
 
-      - name: Update README badge
+      - name: Update README badge count
         run: |
-          # Use extracted count from previous step
           COUNT="${{ steps.extract.outputs.count }}"
-          # Escape dots for sed regex
           ESCAPED_COUNT=$(echo "$COUNT" | sed 's/\./\\./g')
-          # Replace the number in the badge URL inside README.md
           sed -i -E "s/(Profile%20Views-)[0-9]+(\.[0-9]+)?[kM]?/\1${ESCAPED_COUNT}/" README.md
 
-      - name: Commit and push changes
+      - name: Commit & push changes if any
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
           if git diff --cached --quiet; then
             echo "No changes to commit"
