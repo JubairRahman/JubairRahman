@@ -16,9 +16,8 @@ jobs:
       - name: Download Komarev profile views SVG
         run: curl -s "https://komarev.com/ghpvc/?username=JubairRahman&abbreviated=true" -o views.svg
 
-- name: Debug: Show views.svg content
-  run: cat views.svg
-
+      - name: Debug: Show views.svg content
+        run: cat views.svg
 
       - name: Extract profile views count
         id: extract
@@ -50,5 +49,3 @@ jobs:
             git commit -m "🔄 Update profile views badge to ${{ steps.extract.outputs.count }}"
             git push
           fi
-
-
