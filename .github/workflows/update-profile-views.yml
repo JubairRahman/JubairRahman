@@ -49,3 +49,5 @@ jobs:
             git commit -m "🔄 Update profile views badge to ${{ steps.extract.outputs.count }}"
             git push
           fi
+
+
