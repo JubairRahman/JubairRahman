@@ -17,7 +17,7 @@ jobs:
         run: curl -s "https://komarev.com/ghpvc/?username=JubairRahman&abbreviated=true" -o views.svg
 
       - name: Debug: Show views.svg content
-        run: cat views.svg   # <-- This is the new debug step added
+        run: cat views.svg
 
       - name: Extract profile views count
         id: extract
