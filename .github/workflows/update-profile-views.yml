@@ -20,13 +20,20 @@ jobs:
         id: extract
         run: |
           COUNT=$(grep -oP '(?<=<title>)[0-9,.]+[kM]?' views.svg)
+          echo "Extracted count: $COUNT"
           echo "count=$COUNT" >> $GITHUB_OUTPUT
+
+      - name: Show badge line before update
+        run: grep "Profile%20Views-" README.md || echo "Badge line not found"
 
       - name: Update README badge count
         run: |
           COUNT="${{ steps.extract.outputs.count }}"
           ESCAPED_COUNT=$(echo "$COUNT" | sed 's/\./\\./g')
           sed -i -E "s/(Profile%20Views-)[0-9]+(\.[0-9]+)?[kM]?(-9BB1FF)/\1${ESCAPED_COUNT}\3/" README.md
+
+      - name: Show badge line after update
+        run: grep "Profile%20Views-" README.md || echo "Badge line not found"
 
       - name: Commit and push changes if needed
         run: |
