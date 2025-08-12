@@ -24,6 +24,10 @@
   </a>
 </p>
 
+[![👀 Profile Views](https://img.shields.io/badge/Profile%20Views-0000-9BB1FF?style=for-the-badge&logo=github&logoColor=white&labelColor=29335c)](https://github.com/JubairRahman)
+
+[![👀 Profile Views](https://img.shields.io/badge/Profile%20Views-0000-9BB1FF?style=for-the-badge&logo=github&logoColor=white&labelColor=29335c)](https://github.com/JubairRahman)
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;QA+Developer;Learning;Evolving;Communication;Analytical+Thinker;Innovation" alt="Typing SVG" /></a>
 </p>
