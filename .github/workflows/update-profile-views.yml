@@ -2,21 +2,21 @@ name: Update Profile Views Badge
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every midnight UTC
-  workflow_dispatch:      # manual trigger
+    - cron: "0 0 * * *"  # Run daily at midnight UTC
+  workflow_dispatch:      # Allow manual trigger from Actions tab
 
 jobs:
   update-badge:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download Komarev SVG
+      - name: Download Komarev profile views SVG
         run: curl -s "https://komarev.com/ghpvc/?username=JubairRahman&abbreviated=true" -o views.svg
 
-      - name: Extract count from SVG
+      - name: Extract profile views count
         id: extract
         run: |
           COUNT=$(grep -oP '(?<=<title>)[0-9,.]+[kM]?' views.svg)
@@ -28,7 +28,7 @@ jobs:
           ESCAPED_COUNT=$(echo "$COUNT" | sed 's/\./\\./g')
           sed -i -E "s/(Profile%20Views-)[0-9]+(\.[0-9]+)?[kM]?/\1${ESCAPED_COUNT}/" README.md
 
-      - name: Commit & push changes if any
+      - name: Commit and push changes if needed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
