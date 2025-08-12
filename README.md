@@ -18,20 +18,12 @@
 
 </p>
 <p align="center">
-<!--   <strong>👀 Profile views</strong><br/> -->
   <a href="https://github.com/JubairRahman" target="_blank" rel="noopener">
-    <img src="https://komarev.com/ghpvc/?username=JubairRahman" alt="Profile views" width="150" />
+    <img src="https://komarev.com/ghpvc/?username=JubairRahman&color=29335c" alt="Profile views" width="150" />
   </a>
 </p>
 
 
-
-
-<p align="center">
-  <a href="https://github.com/JubairRahman" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Profile%20Views-0-9BB1FF?style=for-the-badge&logo=github&logoColor=white&labelColor=29335c" alt="Profile views" width="150" />
-  </a>
-</p>
 
 
 
