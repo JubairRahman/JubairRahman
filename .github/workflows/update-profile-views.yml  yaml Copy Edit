@@ -1,0 +1,37 @@
+name: Update Profile Views Badge
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+  workflow_dispatch:     # Allows manual run from Actions tab
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Komarev SVG
+        run: curl -s "https://komarev.com/ghpvc/?username=JubairRahman&abbreviated=true" -o views.svg
+
+      - name: Extract view count
+        run: |
+          # Extracts number like 1.2k or 1234 from SVG
+          COUNT=$(grep -oP '(?<=<title>)[^<]+' views.svg | grep -oP '[0-9]+(\.[0-9]+)?[kM]?')
+          echo "VIEWS=$COUNT"
+          echo "VIEWS=$COUNT" >> $GITHUB_ENV
+
+      - name: Update README badge
+        run: |
+          # This regex replaces only the number in your Profile Views badge
+          sed -i -E "s/(Profile%20Views-)[0-9]+(\.[0-9]+)?[kM]?/\1${VIEWS}/" README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "🔄 Update profile views badge to $VIEWS" || echo "No changes"
+          git push
