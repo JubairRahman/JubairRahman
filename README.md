@@ -61,7 +61,11 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,cypress,zapier" />
 
 </div>
+
+
 ---
+
+
 <div align="center">
 
 ### Testing Tools
@@ -195,7 +199,7 @@
 ---
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jubairrahman&label=Profile%20views&color=0e75b6&style=flat" alt="jubairrahman" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=jubairrahman&label=Profile%20views&color=0e75b6&style=flat" alt="jubairrahman" /> </p> -->
 
 ---
 
@@ -213,8 +217,8 @@ const JubairRahman = {
   tools: {
     testManagement: ["TestRail", "JIRA", "Xray"],
     documentation: ["Notion", "Confluence", "Google Docs"],
-    automation: ["Postman", "Selenium", "Playwright"],
-    api: ["REST", "Swagger", "Insomnia"],
+    automation: ["Postman", "Cypress", "Playwright"],
+    api: ["REST", "Swagger", "Insomnia", "NEWMAN"],
     collaboration: ["Git", "GitHub", "Slack", "Zoom"]
   },
   contributions: [
